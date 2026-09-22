@@ -1,0 +1,336 @@
+[
+  {
+    "id": "proj-91bee757",
+    "title": "ResQ: Smart Crisis Coordination Platform",
+    "description": "Multi-agency emergency response and incident verification platform.",
+    "department": "Computer Engineering",
+    "academic_year": "2024-25",
+    "faculty_guide": "Prof. Mrunal Vaidya",
+    "student_id": "student-1",
+    "student_name": "Rohit Jadhav",
+    "status": "evaluated",
+    "submitted_at": "2026-09-22T18:46:35.545315Z",
+    "filename": "ResQ_Crisis_Platform_Project.zip",
+    "file_type": "zip",
+    "document_stats": {
+      "page_count": 3,
+      "word_count": 400,
+      "char_count": 3050,
+      "reading_time_min": 2
+    },
+    "detected_sections": [
+      "Abstract",
+      "Problem Definition",
+      "Literature Review",
+      "Methodology",
+      "Implementation",
+      "Results & Discussion",
+      "Conclusion & References"
+    ],
+    "codebase_metrics": {
+      "total_files": 7,
+      "total_loc": 17,
+      "detected_stack": [
+        "Markdown Documentation",
+        "Python",
+        "SQL",
+        "React (JSX)"
+      ],
+      "file_distribution": {
+        "Markdown Documentation": 1,
+        "Python": 2,
+        "SQL": 1,
+        "React (JSX)": 2
+      },
+      "sample_tree": [
+        "README.md",
+        "backend\\api\\dispatch.py",
+        "backend\\models\\incident.py",
+        "database\\schema.sql",
+        "documentation\\ResQ_Final_Project_Report.pdf",
+        "src\\App.jsx",
+        "src\\components\\IncidentMap.jsx"
+      ],
+      "found_report_pdf": "ResQ_Final_Project_Report.pdf"
+    },
+    "ai_evaluation": {
+      "overall_score": 82,
+      "similarity_score": 12,
+      "criterion_scores": [
+        {
+          "criterion": "Problem Definition",
+          "score": 9,
+          "maximum_score": 10,
+          "reasoning": "Problem statement clearly established in report."
+        },
+        {
+          "criterion": "Literature Review",
+          "score": 8,
+          "maximum_score": 10,
+          "reasoning": "Comprehensive survey of related work included."
+        },
+        {
+          "criterion": "Methodology",
+          "score": 11,
+          "maximum_score": 15,
+          "reasoning": "Solid architectural formulation and design flow provided."
+        },
+        {
+          "criterion": "Implementation",
+          "score": 19,
+          "maximum_score": 20,
+          "reasoning": "Practical implementation details presented with key modules (database, api, model, module)."
+        },
+        {
+          "criterion": "Innovation",
+          "score": 12,
+          "maximum_score": 15,
+          "reasoning": "Demonstrates good engineering application with practical utility."
+        },
+        {
+          "criterion": "Results",
+          "score": 12,
+          "maximum_score": 15,
+          "reasoning": "Results and experimental observations presented."
+        },
+        {
+          "criterion": "Documentation",
+          "score": 11,
+          "maximum_score": 15,
+          "reasoning": "Well-structured document with 3 pages and 400 words adhering to university submission format."
+        }
+      ],
+      "strengths": [
+        "Strong practical implementation utilizing modern technical stack (database, api, model).",
+        "Clear methodology and systematic architectural workflow.",
+        "Comprehensive document containing 400 words across 3 pages."
+      ],
+      "weaknesses": [
+        "Discussion on scalability constraints and hardware edge-cases could be expanded."
+      ],
+      "suggestions": [
+        "Include a comparative performance table against at least 2 existing benchmark systems.",
+        "Add quantitative evaluation graphs (e.g. latency, accuracy, or resource utilization curves).",
+        "Ensure all citations follow standard IEEE/APA reference formatting."
+      ],
+      "overall_feedback": "The project 'ResQ: Smart Crisis Coordination Platform' demonstrates good engineering execution and clear documentation. The technical architecture is well articulated with room for improvement in comparative benchmarking and citation breadth.",
+      "is_demo_mode": true,
+      "model_provider": "Content-Aware Academic Evaluation Engine (Demo Mode)",
+      "codebase_metrics": {
+        "total_files": 7,
+        "total_loc": 17,
+        "detected_stack": [
+          "Markdown Documentation",
+          "Python",
+          "SQL",
+          "React (JSX)"
+        ],
+        "file_distribution": {
+          "Markdown Documentation": 1,
+          "Python": 2,
+          "SQL": 1,
+          "React (JSX)": 2
+        },
+        "sample_tree": [
+          "README.md",
+          "backend\\api\\dispatch.py",
+          "backend\\models\\incident.py",
+          "database\\schema.sql",
+          "documentation\\ResQ_Final_Project_Report.pdf",
+          "src\\App.jsx",
+          "src\\components\\IncidentMap.jsx"
+        ],
+        "found_report_pdf": "ResQ_Final_Project_Report.pdf"
+      }
+    },
+    "faculty_evaluation": null
+  },
+  {
+    "id": "proj-61e043a1",
+    "title": "ResQ: Smart Crisis Coordination Platform",
+    "description": "An AI-assisted multi-agency crisis coordination platform designed to integrate emergency reporting, incident verification, and resource allocation.",
+    "department": "Computer Science",
+    "academic_year": "2024-25",
+    "faculty_guide": "Prof. Mrunal Vaidya",
+    "student_id": "student-1",
+    "student_name": "Rahul Sharma",
+    "status": "evaluated",
+    "submitted_at": "2026-09-22T18:34:00.263989Z",
+    "filename": "ResQ (2).pdf",
+    "file_path": "C:\\Users\\ROHIT\\OneDrive\\Desktop\\Project Evaluator\\projectlense\\backend\\uploads\\proj-61e043a1_ResQ (2).pdf",
+    "document_stats": {
+      "page_count": 5,
+      "word_count": 3187,
+      "char_count": 24735,
+      "reading_time_min": 16
+    },
+    "detected_sections": [
+      "Abstract",
+      "Problem Definition",
+      "Literature Review",
+      "Methodology",
+      "Implementation",
+      "Results & Discussion",
+      "Conclusion & References"
+    ],
+    "ai_evaluation": {
+      "overall_score": 86,
+      "similarity_score": 12,
+      "criterion_scores": [
+        {
+          "criterion": "Problem Definition",
+          "score": 9,
+          "maximum_score": 10,
+          "reasoning": "Problem statement clearly established in report."
+        },
+        {
+          "criterion": "Literature Review",
+          "score": 8,
+          "maximum_score": 10,
+          "reasoning": "Comprehensive survey of related work included."
+        },
+        {
+          "criterion": "Methodology",
+          "score": 13,
+          "maximum_score": 15,
+          "reasoning": "Solid architectural formulation and design flow provided."
+        },
+        {
+          "criterion": "Implementation",
+          "score": 19,
+          "maximum_score": 20,
+          "reasoning": "Practical implementation details presented with key modules (database, api, model, module)."
+        },
+        {
+          "criterion": "Innovation",
+          "score": 12,
+          "maximum_score": 15,
+          "reasoning": "Demonstrates good engineering application with practical utility."
+        },
+        {
+          "criterion": "Results",
+          "score": 12,
+          "maximum_score": 15,
+          "reasoning": "Results and experimental observations presented."
+        },
+        {
+          "criterion": "Documentation",
+          "score": 13,
+          "maximum_score": 15,
+          "reasoning": "Well-structured document with 5 pages and 3187 words adhering to university submission format."
+        }
+      ],
+      "strengths": [
+        "Strong practical implementation utilizing modern technical stack (database, api, model).",
+        "Clear methodology and systematic architectural workflow.",
+        "Comprehensive document containing 3187 words across 5 pages."
+      ],
+      "weaknesses": [
+        "Discussion on scalability constraints and hardware edge-cases could be expanded."
+      ],
+      "suggestions": [
+        "Include a comparative performance table against at least 2 existing benchmark systems.",
+        "Add quantitative evaluation graphs (e.g. latency, accuracy, or resource utilization curves).",
+        "Ensure all citations follow standard IEEE/APA reference formatting."
+      ],
+      "overall_feedback": "The project 'ResQ: Smart Crisis Coordination Platform' demonstrates good engineering execution and clear documentation. The technical architecture is well articulated with room for improvement in comparative benchmarking and citation breadth.",
+      "is_demo_mode": true,
+      "model_provider": "Content-Aware Academic Evaluation Engine (Demo Mode)"
+    },
+    "faculty_evaluation": null
+  },
+  {
+    "id": "proj-69b458c3",
+    "title": "Smart Student Management System",
+    "description": "An automated web-based platform designed to streamline academic records and grading rubrics.",
+    "department": "Computer Science",
+    "academic_year": "2024-25",
+    "faculty_guide": "Dr. Priya Nair",
+    "student_id": "student-1",
+    "student_name": "Rahul Sharma",
+    "status": "evaluated",
+    "submitted_at": "2026-09-22T18:24:08.666307Z",
+    "filename": "Student_Management_System_Report.pdf",
+    "file_path": "C:\\Users\\ROHIT\\OneDrive\\Desktop\\Project Evaluator\\projectlense\\backend\\uploads\\proj-69b458c3_Student_Management_System_Report.pdf",
+    "document_stats": {
+      "page_count": 3,
+      "word_count": 400,
+      "char_count": 3050,
+      "reading_time_min": 2
+    },
+    "detected_sections": [
+      "Abstract",
+      "Problem Definition",
+      "Literature Review",
+      "Methodology",
+      "Implementation",
+      "Results & Discussion",
+      "Conclusion & References"
+    ],
+    "ai_evaluation": {
+      "overall_score": 82,
+      "similarity_score": 12,
+      "criterion_scores": [
+        {
+          "criterion": "Problem Definition",
+          "score": 9,
+          "maximum_score": 10,
+          "reasoning": "Problem statement clearly established in report."
+        },
+        {
+          "criterion": "Literature Review",
+          "score": 8,
+          "maximum_score": 10,
+          "reasoning": "Comprehensive survey of related work included."
+        },
+        {
+          "criterion": "Methodology",
+          "score": 11,
+          "maximum_score": 15,
+          "reasoning": "Solid architectural formulation and design flow provided."
+        },
+        {
+          "criterion": "Implementation",
+          "score": 19,
+          "maximum_score": 20,
+          "reasoning": "Practical implementation details presented with key modules (database, api, model, module)."
+        },
+        {
+          "criterion": "Innovation",
+          "score": 12,
+          "maximum_score": 15,
+          "reasoning": "Demonstrates good engineering application with practical utility."
+        },
+        {
+          "criterion": "Results",
+          "score": 12,
+          "maximum_score": 15,
+          "reasoning": "Results and experimental observations presented."
+        },
+        {
+          "criterion": "Documentation",
+          "score": 11,
+          "maximum_score": 15,
+          "reasoning": "Well-structured document with 3 pages and 400 words adhering to university submission format."
+        }
+      ],
+      "strengths": [
+        "Strong practical implementation utilizing modern technical stack (database, api, model).",
+        "Clear methodology and systematic architectural workflow.",
+        "Comprehensive document containing 400 words across 3 pages."
+      ],
+      "weaknesses": [
+        "Discussion on scalability constraints and hardware edge-cases could be expanded."
+      ],
+      "suggestions": [
+        "Include a comparative performance table against at least 2 existing benchmark systems.",
+        "Add quantitative evaluation graphs (e.g. latency, accuracy, or resource utilization curves).",
+        "Ensure all citations follow standard IEEE/APA reference formatting."
+      ],
+      "overall_feedback": "The project 'Smart Student Management System' demonstrates good engineering execution and clear documentation. The technical architecture is well articulated with room for improvement in comparative benchmarking and citation breadth.",
+      "is_demo_mode": true,
+      "model_provider": "Content-Aware Academic Evaluation Engine (Demo Mode)"
+    },
+    "faculty_evaluation": null
+  }
+]
